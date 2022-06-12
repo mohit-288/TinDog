@@ -76,7 +76,6 @@ p {
   width: 20%;
   transform: rotate(20deg);
   position: absolute;
-  margin-left: 5rem;
 }
 
 @media (max-width: 1028px) {
@@ -129,13 +128,13 @@ p {
 
 .press-logo {
   width: 10%;
-  margin: 1.5rem 1.5rem 3.25rem;
+  margin: 1% 1% 4%;
 }
 
 /* pricing */
 
 #pricing {
-  padding: 10rem;
+  padding: 10%;
 }
 
 /* Footer Section */
